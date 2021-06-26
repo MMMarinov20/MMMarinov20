@@ -11,6 +11,7 @@
 <h2>➤ Hobbies</h2>
 
 ➤『🎩』Exploring new stuff.
+
 ➤『💻』Doing projects in my free time.
 
 <h2> ➤ Languages</h2>
