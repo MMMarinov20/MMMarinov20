@@ -1,6 +1,6 @@
 <h2>➤ Personal information</h2>
 
-➤ 『👋』 Hi, I’m @MMMarinov20, I am student in 『🎓』@codingburgas『🎓』. 
+➤ 『👋』 Hi, I’m @MMMarinov20, I am student at 『🎓』@codingburgas『🎓』. 
 
 ➤ 『💡』 I’m interested in 『🖥️Web Developing, Front-end🖥️』
 
