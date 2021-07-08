@@ -14,7 +14,7 @@
 
 ➤『💻』Doing projects in my free time.
 
-<h2> ➤ Languages</h2>
+<h2> ➤ Tools</h2>
 
 
 
