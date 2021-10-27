@@ -39,7 +39,7 @@
 </details>
 
 <details>	
-  <summary><b> 『🏆』Github Stats</b></summary>
+  <summary><b> 『🏆』Top Languages</b></summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmmarinov20&show_icons=true&theme=dark&title_color=ce1c1c&text_color=ce1c8d&locale=en&layout=compact" alt="mmmarinov20" /></p>
 </details>
 
