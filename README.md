@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmmarinov20&label=Profile%20views&color=0e75b6&style=flat" alt="mmmarinov20" /> </p>
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img align="right" height="250" width="350" alt="" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 
 <h2>➤ Personal information</h2>
