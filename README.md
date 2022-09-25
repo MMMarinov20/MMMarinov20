@@ -20,12 +20,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&logo=webstorm">
     <img src="https://img.shields.io/badge/-Visual Studio Code-000000?style=for-the-badge&logo=visualstudiocode">
-    <img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github">
-</p>
-<p align="center">
     <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git">
-  <img src="https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=ubuntu">
-    <img src="https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows">
 </p>
 
 <details style = "display: inline; align:center">
